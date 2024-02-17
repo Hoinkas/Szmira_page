@@ -5,6 +5,8 @@
 
 .Sidebar-logo {
   position: absolute;
+  color:#80FF00;
+  mix-blend-mode: hard-light;
   right: 32px;
   width: 32px;
   height: 100vh;
@@ -20,7 +22,14 @@
 
 .App-imageBox {
   position: relative;
+  height: 360px;
+}
+
+.App-imageBox img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
+  max-width: calc(100% + 32px);
 }
 
 .Flex-Left {
@@ -35,12 +44,20 @@
 
 .App-imageBoxText {
   position: absolute;
-  bottom: -6px;
-  left: 0px;
+  bottom: -11px;
   color:#80FF00;
+  mix-blend-mode: hard-light;
   font-weight: bold;
   text-transform: uppercase;
   font-size: 40px;
   max-width: 60%;
   opacity: 90%;
+}
+
+.ImageTextFlex-Right {
+  left: 0px;
+}
+
+.ImageTextFlex-Left {
+  left: 32px;
 }

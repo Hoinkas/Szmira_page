@@ -18,11 +18,11 @@ function App() {
       <div className="App-box">
         <HeaderWithLogo/>
         <TextBox text={text1}/>
-        <ImageBox image={zdj_Strona_1} altText={description1} overText={"Kim jesteśmy?"} side='Right'/>
+        <ImageBox image={zdj_Strona_3} altText={description1} overText={"Kim jesteśmy?"} side='Right'/>
         <TextBox text={text2}/>
         <ImageBox image={zdj_Strona_2} altText={description2} overText={"Co robimy?"} side='Left'/>
         <TextBox text={text3}/>
-        <ImageBox image={zdj_Strona_3} altText={description3} overText={"Gdzie jesteśmy?"} side='Right'/>
+        <ImageBox image={zdj_Strona_1} altText={description3} overText={"Gdzie jesteśmy?"} side='Right'/>
         <TextBox text={text4}/>
 
         <div>Copyright 2024 - Spółdzielnia Szmira</div>
