@@ -72,5 +72,5 @@ export const text4 = [
   </a>,
   <br/>,
   <br/>,
-  <div>604 659 227</div>,
+  <div>788 659 948</div>,
 ]
