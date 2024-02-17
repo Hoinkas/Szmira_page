@@ -12,8 +12,6 @@ restrictions:
  3) You may not publish or distribute substantial portions of the Software in its compiled or uncompiled
     forms without prior permission from the copyright holder.
  4) The Software does not make up a substantial portion of your own projects.
- 5) You are not allowed to use, copy or modify digital art or text included in Software without premission
-    of owner. Any usage should be consulted and used for promotion of "Szmira" organisation only.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
 LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
