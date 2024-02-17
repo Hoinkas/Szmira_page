@@ -1,16 +1,22 @@
- The A License
-
 Copyright 2024 `Hoinkas`
 
-Permission is hereby granted, free of charge, to any peaceful non-aggressive sovereign individual or group of sovereign individuals (the "individual") obtaining a copy of this software, associated documentation files, and other forms of information (the "software"), to deal in the software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, and to permit persons to whom the software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+associated documentation files (the "Software"), to use, copy, modify, and/or merge copies of the
+Software, and to permit persons to whom the Software is furnished to do so, subject to the following
+restrictions:
 
-Any individual breaking the Natural Law of Non-Aggression and Self-Defense is entirely prohibited to use, copy, modify, merge the software. This includes explicitly but is not limited to,
+ 1) The above copyright notice and this permission notice shall be included in all copies or substantial
+    portions of the Software.
+ 2) You include attribution to the copyright holder(s) in public display of any project that uses any
+    portion of the Software.
+ 3) You may not publish or distribute substantial portions of the Software in its compiled or uncompiled
+    forms without prior permission from the copyright holder.
+ 4) The Software does not make up a substantial portion of your own projects.
+ 5) You are not allowed to use, copy or modify digital art or text included in Software without premission
+    of owner. Any usage should be consulted and used for promotion of "Szmira" organisation only.
 
-* any individual engaging in, or encouraging murder, assault, theft, rape, trespassing, coercion, lying, or any other initiation of aggressive violence against the private property of peaceful individuals;
-* any individual relying on monopolistic privilege licenses granted by any government or law enforcement agency;
-* any individual investigating "money laundering" or "unexplained wealth"; or
-* any individual aggressively enforcing "intellectual property rights".
-
-The above copyright notice and this permission notice shall be included or linked to in all copies or substantial portions of the Software.
-
-Don't trust, verify. The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, wether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
