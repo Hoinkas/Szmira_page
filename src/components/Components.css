@@ -1,0 +1,46 @@
+.App-logo {
+  max-height: 498px;
+  max-width: 160px;
+}
+
+.Sidebar-logo {
+  position: absolute;
+  right: 32px;
+  width: 32px;
+  height: 100vh;
+  z-index: 3;
+  opacity: 95%;
+}
+
+.App-textBox {
+  padding: 32px 0px 64px 0px;
+  width: 80%;
+  text-wrap: balance;
+}
+
+.App-imageBox {
+  position: relative;
+  width: 100%;
+}
+
+.Flex-Left {
+  align-self: flex-start;
+  margin-left: -32px;
+}
+
+.Flex-Right {
+  align-self: flex-end;
+  margin-right: -32px;
+}
+
+.App-imageBoxText {
+  position: absolute;
+  bottom: -6px;
+  left: 0px;
+  color:#80FF00;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 40px;
+  max-width: 60%;
+  opacity: 90%;
+}
