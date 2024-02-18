@@ -30,4 +30,4 @@ jobs:
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
           local-dir: ./build/
-          server-dir: ${{ secrets.ftp_server_dir }}
+          server-dir: ./public_nodejs/
