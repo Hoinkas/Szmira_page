@@ -16,7 +16,7 @@ jobs:
       - name: npm install and build
         run: |
           ls
-          cd ..
+          cd Szmira_page
           ls
           npm install
           npm run build --if-present
