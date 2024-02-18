@@ -31,6 +31,13 @@ jobs:
       - run: |
           npm ci
           npm run build --if-present
+      - name: Archive production artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: build
+          path: |
+            build
+            !build/**/*.md
 
   upload:
     needs: build
