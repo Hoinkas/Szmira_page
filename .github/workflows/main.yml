@@ -19,13 +19,12 @@ jobs:
           dry-run: true
         
   build:
-    if: test.success()
     runs-on: windows-latest
     steps:
       - name: Setup Node
         uses: actions/checkout@v3
         with:
-          node-version: '20.x'
+          node-version: '2.x'
           
       - name: npm install and build
         run: |
