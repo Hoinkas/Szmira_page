@@ -1,6 +1,6 @@
 export const text1 = [
-<a className="App-link" href='mailto:kontakt@szmira.org'>
-  kontakt@szmira.org
+<a className="App-link" href='mailto:spoldzielnia@szmira.org'>
+  spoldzielnia@szmira.org
 </a>,
 <br/>,
 <a className="App-link" href='mailto:zamow@szmira.com.org'>
@@ -14,7 +14,7 @@ export const text1 = [
 <div>Os. Zielone 8, Kraków</div>]
 
 export const text2 = [
-  <div><b>Szmira</b> to spółdzielnia poligraficzna działająca w Krakowie</div>,
+  <div><b>Szmira</b> to spółdzielnia twórcza działająca w Krakowie</div>,
   <br/>,
   <div>Zajmujemy się drukiem, introligatorstwem, projektowaniem i rękodziełem. Lubimy niecodzienne techniki druku, działamy w idei zrób to sam_</div>,
   <br/>,
@@ -67,8 +67,8 @@ export const text4 = [
   </a>,
   <br/>,
   <br/>,
-  <a className="App-link" href='mailto:kontakt@szmira.org'>
-    kontakt@szmira.org
+  <a className="App-link" href='mailto:spoldzielnia@szmira.org'>
+    spoldzielnia@szmira.org
   </a>,
   <br/>,
   <br/>,
