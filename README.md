@@ -1,6 +1,7 @@
 # What is Szmira?
 
-https://szmira.org/
+https://szmira.org/ \
+https://www.facebook.com/spoldzielniaszmira \
 Szmira is a creative cooperative operating in Krakow.
 
 ## How to run the page locally
