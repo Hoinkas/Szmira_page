@@ -3,7 +3,7 @@
 https://szmira.org/
 Szmira is a creative cooperative operating in Krakow.
 
-## How to run tge page locally
+## How to run the page locally
 
 1. Clone github repo https://github.com/Hoinkas/Szmira_page.git manually or via Github Desktop.
 2. Create new branch.
