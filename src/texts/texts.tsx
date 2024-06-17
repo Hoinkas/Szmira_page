@@ -3,8 +3,8 @@ export const text1 = [
   spoldzielnia@szmira.org
 </a>,
 <br/>,
-<a className="App-link" href='mailto:zamow@szmira.com.org'>
-  zamow@szmira.com
+<a className="App-link" href='mailto:zamow@szmira.org'>
+  zamow@szmira.org
 </a>,
 <br/>,
 <a className="App-link" href="https://www.instagram.com/spoldzielnia_szmira/">
